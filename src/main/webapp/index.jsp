@@ -4,5 +4,6 @@
 <a href="/home"></a>
 <a href="/login"></a>
 <a href="/submit"></a>
+<a href="/save"></a>
 </body>
 </html>
