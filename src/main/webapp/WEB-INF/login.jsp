@@ -2,4 +2,7 @@
 <input type="submit" value="submit">
 <input type="reset" value="reset">
 <a href="index.jsp">check</a>
+<input type="checkbox">
+
+
 
